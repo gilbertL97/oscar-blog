@@ -3,10 +3,8 @@
 </script>
 
 <template>
-  <div class=" bg-gray-300 bg-white shadow dark:bg-gray-800">
-    <section class="lg:min-h-3xl flex items-center justify-center">
-<h1 class="text-red text-center text-5xl md:text-7xl items-center justify-center"> Asere  {{ $t('dance') }} </h1>
-    </section>
+  <div class="  bg-white shadow dark:bg-gray-800 text-gray-700 dark:text-gray-200">
+    <SectionsIntro/>
     <SectionsAbout class="#About"/>
   </div>
 </template>
