@@ -17,7 +17,7 @@
       <div class="lg:py-24">
         <h2 class="text-3xl font-bold sm:text-4xl">{{$t('dancer') }}</h2>
 
-        <p class="mt-4 text-gray-600">
+        <p class="mt-4 text-gray-400">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
           eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
           quidem quam repellat.
@@ -38,7 +38,7 @@
       <div class="lg:py-24">
         <h2 class="text-3xl font-bold sm:text-4xl">{{ $t('choreographer') }}</h2>
 
-        <p class="mt-4 text-gray-600">
+        <p class="mt-4 text-gray-400">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
           eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
           quidem quam repellat.
@@ -59,7 +59,7 @@
       <div class="lg:py-24">
         <h2 class="text-3xl font-bold sm:text-4xl">{{$t('model') }}</h2>
 
-        <p class="mt-4 text-gray-600">
+        <p class="mt-4 text-gray-400">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
           eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
           quidem quam repellat.
